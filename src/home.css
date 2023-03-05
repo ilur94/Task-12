@@ -1,0 +1,28 @@
+body{
+    background-image: url(./image.jpg);
+    height: 100vh; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover
+    
+}
+img{
+    width: 100%;
+}
+.button{
+    justify-content: center;
+    color: white;
+    font-size: 60px;
+
+}
+
+.number{
+    background-color: transparent;
+    color: white;
+}
+
+.timer{
+    margin-top: 350px;
+    margin-left: 600px
+    
+}
